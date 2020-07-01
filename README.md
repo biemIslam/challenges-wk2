@@ -7,4 +7,4 @@ Lower count button decrements the counter and when the displayed value is lesser
 to initial value of zero (0).
 Note: When value is at zero (0), text color cahnges to white
 
-## Cahllenge 2 is An Analog Clock showing the current time of a user's local timezone
+## Challenge 2 is An Analog Clock showing the current time of a user's local timezone
