@@ -1,4 +1,4 @@
-# challenges-wk2
+# Challenges-wk2
 
 ## Challenge 1 is a simple counnter app built with HTML and CSS. 
 This app consists of the display screen, and 3 buttons.
