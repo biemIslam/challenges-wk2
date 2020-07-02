@@ -124,3 +124,9 @@ p#show-time {
     font-weight: 600;
     color: rgb(51, 13, 190);
 }
+
+@media only screen and  (min-width: 992px) {
+    .clock-div {
+        width: 50%;
+    }
+}
