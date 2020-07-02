@@ -1,6 +1,6 @@
 # Challenges-wk2
 
-## Challenge 1 is A Simple Counter App built with HTML and CSS. 
+## Task 1 is A Simple Counter App built with HTML and CSS. 
 This app consists of the display screen, and 3 buttons. The 3 buttons are 
 Add Count, Lower Count and Reset buttons.
 ### How to Run: Click any of the buttons
@@ -11,6 +11,6 @@ Note: When value is at zero (0), text color cahnges to white
 
 App can be viewed at: https://biemislam.github.io/challenges-wk2/analog-clock.html
 
-## Challenge 2 is An Analog Clock showing the current time of a user's local timezone
+## Task 2 is An Analog Clock showing the current time of a user's local timezone
 
 App can be viewed at: https://biemislam.github.io/challenges-wk2/analog-clock.html/analog.html
