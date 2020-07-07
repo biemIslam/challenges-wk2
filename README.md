@@ -9,7 +9,7 @@ Add Count, Lower Count and Reset buttons.
 3. **When the Reset button is clicked:** The Reset button resets back the counter to initial value of zero (0).
 Note: When value is at zero (0), text color cahnges to white
 
-App can be viewed at: https://biemislam.github.io/challenges-wk2/analog-clock.html
+App can be viewed at: https://biemislam.github.io/challenges-wk2
 
 ## Task 2 is An Analog Clock showing the current time of a user's local timezone
 
